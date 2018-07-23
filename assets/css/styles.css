@@ -61,7 +61,7 @@ hr {
 }
 
 section h3.title {
-	text-transform: uppercase;
+	text-transform: capitalize;
 	font: bold 32px Open Sans, sans-serif;
 	margin-bottom: 30px;
 	text-align: center;
@@ -191,3 +191,14 @@ section p {
 	font-size: 30px;
 	margin: 25px 0;
 }
+
+/* Testimonials Section */
+
+.testimonials .quote {
+	font-size: 22px;
+	font-weight: 300;
+	line-height: 1.5;
+	margin: 40px 0 25px;
+}
+
+
